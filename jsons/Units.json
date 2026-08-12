@@ -399,18 +399,6 @@
 
 	// Rennaisance Era
 
-	{
-		"name": "Caravel",
-		"unitType": "Melee Water",
-		"movement": 4,
-		"strength": 20,
-		"cost": 120,
-		"requiredTech": "Astronomy",
-		"upgradesTo": "Ironclad",
-		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
-		"hurryCostModifier": 30,
-		"attackSound": "cannon"
-	},
 
 	{
 		"name": "Musketman",
@@ -435,30 +423,6 @@
 		"attackSound": "cannon"
 	},
 	
-	{
-		"name": "Frigate",
-		"unitType": "Ranged Water",
-		"movement": 5,
-		"strength": 25,
-		"rangedStrength": 28,
-		"cost": 185,
-		"requiredResource": "Iron",
-		"hurryCostModifier": 20,
-		"attackSound": "shipCannonVolley"
-	},
-
-	{
-		"name": "Lancer",
-		"unitType": "Mounted",
-		"movement": 4,
-		"strength": 25,
-		"cost": 185,
-		"requiredTech": "Metallurgy",
-		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
-		"promotions": ["Formation I"],
-		"attackSound": "horse"
-	},
 	
 	{
 		"name": "Cannon",
