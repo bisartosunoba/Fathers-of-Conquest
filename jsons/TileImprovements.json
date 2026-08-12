@@ -55,13 +55,7 @@
 		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "W"
 	},
-	{
-		"name": "Offshore Platform",
-		"turnsToBuild": 1,  // Allows this to be constructed for city-states
-		"techRequired": "Refrigeration",
-		"uniques": ["Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "P"
-	},
+
 	{
 		"name": "Pasture",
 		"turnsToBuild": 8,
