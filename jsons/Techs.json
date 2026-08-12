@@ -157,7 +157,7 @@
             "techs": [
                   {
                         "name": "Philosophy",
-                        "row": 3,
+                        "row": 2,
                         "prerequisites": ["Writing","Calendar"],
                         "quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates",
                         "uniques": ["Starting tech"]
