@@ -21,17 +21,6 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
-	{
-		"name": "Stele",
-        "replaces": "Monument",
-		"uniqueTo": "Ethiopia",
-		"culture": 2,
-		"faith": 2,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"] //"Only available <when religion is enabled>"
-	},
 	// Column 1
 	{
 		"name": "Granary",
@@ -46,17 +35,6 @@
 	{
 		"name": "Shrine",
 		"faith": 1,
-		"cost": 40,
-		"maintenance": 1,
-		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>"]
-	},
-	{
-		"name": "Pyramid",
-		"replaces": "Shrine",
-		"uniqueTo": "The Maya",
-		"faith": 2,
-		"science": 2,
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
@@ -135,18 +113,7 @@
 		"uniques": ["Must be on [River]"],
 		"requiredTech": "The Wheel"
 	},
-	{
-		"name": "Floating Gardens",
-		"replaces": "Water Mill",
-		"uniqueTo": "Aztecs",
-		"food": 2,
-		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"percentStatBonus": {"food": 15},
-		"requiredTech": "The Wheel"
-	},
+
 	{
 		"name": "Walls",
 		"cityStrength": 5,
@@ -155,17 +122,7 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
-	{
-		"name": "Walls of Babylon",
-		"replaces": "Walls",
-		"cost": 65,
-		"uniqueTo": "Babylon",
-		"cityStrength": 6,
-		"cityHealth": 100,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
-	},
+
 	{
 		"name": "The Pyramids",
 		"culture": 1,
@@ -190,16 +147,6 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Bronze Working"
-	},
-	{
-		"name": "Krepost",
-		"replaces": "Barracks",
-		"uniqueTo": "Russia",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -593,19 +540,7 @@
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
-	{
-		"name": "Mughal Fort",
-		"cost": 150,
-		"replaces": "Castle",
-		"uniqueTo": "India",
-		"cityStrength": 7,
-		"cityHealth": 25,
-		"culture": 2,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
-		"requiredTech": "Chivalry"
-	},
+	
 	{
 		"name": "Alhambra",
 		"culture": 1,
@@ -697,18 +632,7 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
-	{
-		"name": "Satrap's Court",
-		"replaces": "Bank",
-		"uniqueTo": "Persia",
-		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
-		"happiness": 2,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
-	},
+	
     {
         "name": "Constabulary",
         "cost": 160,
