@@ -191,9 +191,8 @@
 		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
 	},
 	{
-		"name": "Uranium",
+		"name": "Holy Ore",
 		"resourceType": "Strategic",
-		"revealedBy": "Atomic Theory",
 		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow"],
 		"production": 1,
 		"improvement": "Mine",
