@@ -336,19 +336,8 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
-	
-	{
-		"name": "Privateer",
-		"unitType": "Melee Water",
-		"movement": 5,
-		"strength": 25,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"promotions": ["Coastal Raider I", "[Privateer] ability"],
-		"attackSound": "cannon"
-	},
-	
-	
+
+
 	{
 		"name": "Cannon",
 		"unitType": "Siege",
