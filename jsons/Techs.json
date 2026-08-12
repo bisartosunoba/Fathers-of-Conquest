@@ -162,6 +162,14 @@
                         "quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates",
                         "uniques": ["Starting tech"]
                   },
+				{
+				"name": "Drama and Poetry",
+				"row": 3,
+				"prerequisites": ["Writing"],
+				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock",
+				"uniques": ["Starting tech"]
+				
+			},
                   {
                         "name": "Currency",
                         "row": 7,
@@ -452,6 +460,13 @@
 
 
                   },
+				{
+				"name": "Electricity",
+				"row": 3,
+				"prerequisites": ["Scientific Theory"],
+                "uniques": ["Starting Tech","[+100]% weight to this choice for AI decisions"],
+				"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne"
+			},
                   {
                         "name": "Steam Power",
                         "row": 6,
