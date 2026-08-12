@@ -671,49 +671,6 @@
 		"movement": 3
 	},
 
-	/* Spaceship Parts */
-
-	// Must be transported to the Capital for launch.
-	// Can be destroyed by any hostile military unit walking in their tile.
-	{
-		"name": "SS Booster",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Advanced Ballistics",
-		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [3] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
-		// costs 1500 in BNW
-	},
-	{
-		"name": "SS Cockpit",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Satellites",
-		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
-		// costs 1500 in BNW
-	},
-	{
-		"name": "SS Engine",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Particle Physics",
-		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
-		// costs 1500 in BNW
-	},
-	{
-		"name": "SS Stasis Chamber",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Nanotechnology",
-		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
-		// costs 1500 in BNW
-	}
+	
 ]
 
