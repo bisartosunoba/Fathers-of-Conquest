@@ -180,18 +180,7 @@
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action"]
 	},
-	{
-		"name": "Trireme",
-		"unitType": "Melee Water",
-		"movement": 4,
-		"strength": 10,
-		"cost": 45,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Caravel",
-		"obsoleteTech": "Astronomy",
-		"attackSound": "nonmetalhit"
-	},
+	
 	{
 		"name": "Galley",
 		"unitType": "Melee Water",
@@ -220,34 +209,7 @@
 		"attackSound": "arrow"
 	},
 	
-	{
-		"name": "Spearman",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 11,
-		"cost": 56,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"attackSound": "metalhit"
-	},
 	
-	
-	{
-		"name": "Marauder",
-		"unitType": "Sword",
-		"replaces": "Spearman",
-		"uniqueTo": "Barbarians",
-		"movement": 2,
-		"strength": 10,
-		"cost": 56,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"attackSound": "metalhit"
-	},
 
 	/* Classical Era */
 	{
@@ -310,32 +272,8 @@
 	
 
 	// Medieval Era
-	{
-		"name": "Pikeman",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 16,
-		"cost": 90,
-		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"upgradesTo": "Lancer",
-		"obsoleteTech": "Metallurgy",
-		"attackSound": "metalhit"
-	},
 	
-	{
-		"name": "Galleass",
-		"unitType": "Ranged Water",
-		"movement": 3,
-		"strength": 16,
-		"rangedStrength": 17,
-		"cost": 100,
-		"requiredTech": "Compass",
-		"obsoleteTech": "Navigation",
-		"upgradesTo": "Frigate",
-		"uniques": ["Cannot enter ocean tiles"],
-		"attackSound": "arrow"
-	},
+
 	{
 		"name": "Knight",
 		"unitType": "Mounted",
