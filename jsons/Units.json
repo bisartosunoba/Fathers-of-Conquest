@@ -43,9 +43,10 @@
   {
     "name": "Pehlivan",
     "unitType": "Melee",
-    "movement": 3,
-    "strength": 70,
-    "cost": 550,
+    "movement": 2,
+    "strength": 26,
+    "cost": 230,
+	"replaces": "Longswordsman",
     "uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "metalhit",
