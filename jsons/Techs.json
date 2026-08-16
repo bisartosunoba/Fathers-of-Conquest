@@ -284,7 +284,7 @@
 		"era": "Colossal era",
 		"techCost": 780,
 		"buildingCost": 200,
-		"wonderCost" 500,
+		"wonderCost":500,
 		"techs":[
 			{
 				"name": "Birth of Colossals",
