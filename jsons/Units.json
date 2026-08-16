@@ -45,11 +45,11 @@
     "unitType": "Melee",
     "movement": 2,
     "strength": 26,
-    "cost": 230,
+    "cost": 200,
 	"requiredTech": "Steel",
 	"requiredResource": "Iron",
 	"replaces": "Longswordsman",
-    "uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+    "uniques": ["[20]% Strength bonus for [Land] units within [1] tiles","No defensive terrain penalty","Never appears as a Barbarian unit"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "metalhit",
     "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split tanks in two."}]
@@ -57,12 +57,14 @@
 	{
     "name": "Horse of Joy",
     "unitType": "Mounted",
-    "movement": 4,
-    "strength": 65,
-    "cost": 700,
+    "movement": 3,
+    "strength": 30,
+    "cost": 300,
+	"requiredTech": "Chivalry",
+	"requiredResource": "Horses",
     "uniques": ["Can move after attacking","[1] additional attacks per turn","Never appears as a Barbarian unit"],
     "uniqueTo": "Lovers of the Wall",
-    "attackSound": "tankshot",
+    "attackSound": "horse",
     "civilopediaText": [{"text":"In the palace behind the walls, only one of the creatures empowered by the wall's psychic energy is being held for the ceremony."}]
     
     
