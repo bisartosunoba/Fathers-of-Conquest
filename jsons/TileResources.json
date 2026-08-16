@@ -155,6 +155,7 @@
 	{
 		"name": "Tremendous",
 		"resourceType": "Strategic",
+		"revealedBy": "Birth of Colossals"
 		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow"],
 		"production": 1,
 		"improvement": "Mine",
