@@ -46,6 +46,8 @@
     "movement": 2,
     "strength": 26,
     "cost": 230,
+	"requiredTech": "Steel",
+	"requiresResource": "Iron"
 	"replaces": "Longswordsman",
     "uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
     "uniqueTo": "Golden Sultanate",
