@@ -302,7 +302,7 @@
 			
 			{
 				"name":"Mature Wall",
-				"row": 2,
+				"row": 5,
 				"prerequisites":["Psychic Science","Chivalry"]
 				"uniques": ["[20]% City Strength from defensive buildings"]
 			},
