@@ -309,7 +309,7 @@
 			
 			{
 			    "name":"Quantity Production",
-			    "row": 9,
+			    "row": 8,
 			    "prerequisites":["Machinery","Physics","Steel"]
 			
 			},
