@@ -256,6 +256,13 @@
                 "uniques": ["Enables Defensive Pacts <Civilopedia link [Tutorials/Defensive Pacts]>"],
                 "quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
 			},
+			
+			{
+				"name": "Psychic Science",
+				"row": 8,
+				"prerequisites": ["Guilds","Engineering"]
+			},
+			
 			{
 				"name": "Machinery",
 				"row": 8,
@@ -286,12 +293,15 @@
 		"buildingCost": 200,
 		"wonderCost":500,
 		"techs":[
+			{"name":"Quantity production",
+			"row": 9,
+			"prerequisites":["Machinery","Physics","Steel"]
+			
+			},
 			{
 				"name": "Birth of Colossals",
 				"row": 10,
-				"prerequisites":["Machinery","Physics","Steel"],
-				"quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man"
-			
+				"prerequisites":["Machinery","Physics","Steel"]
 			}
 
 			
