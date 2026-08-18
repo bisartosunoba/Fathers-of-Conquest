@@ -76,8 +76,8 @@
     "name": "Experimental Warrior",
     "unitType": "Melee",
     "movement": 2,
-    "strength": 30,
-    "cost": 120,
+    "strength": 21,
+    "cost": 90,
 	"requiredTech": "Quantity Production"
     "uniques": ["[35] XP gained from combat","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
