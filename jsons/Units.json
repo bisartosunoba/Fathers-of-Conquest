@@ -315,6 +315,15 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
+	{ 
+		"name": "Golem",
+		"unitType": "Armored",
+		"movement": "2",
+		"strength": "24",
+		"cost": 160,
+		"requiredTech": "Psychic Science",
+		"attackSound": "nonmetalhit"
+	},
 	
 	
 
