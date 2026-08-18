@@ -293,9 +293,17 @@
 		"buildingCost": 200,
 		"wonderCost":500,
 		"techs":[
-			{"name":"Quantity production",
-			"row": 9,
-			"prerequisites":["Machinery","Physics","Steel"]
+			{
+				"name":"Charm",
+				"row": 2,
+				"prerequisites":["Compass","Education"]
+				"uniques": ["[5]% [All] resource production"]
+			},
+			
+			{
+			    "name":"Quantity production",
+			    "row": 9,
+			    "prerequisites":["Machinery","Physics","Steel"]
 			
 			},
 			{
