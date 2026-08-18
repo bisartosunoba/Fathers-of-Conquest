@@ -34,7 +34,7 @@ NationIcons/Titan Kin
   index: -1
 ResourceIcons/Tremendous
   rotate: false
-  xy: 1564, 1564
+  xy: 352, 4
   size: 340, 340
   orig: 340, 340
   offset: 0, 0
@@ -46,9 +46,16 @@ UnitIcons/Colossal Titan
   orig: 512, 512
   offset: 0, 0
   index: -1
-UnitIcons/Golem
+UnitIcons/Experimental Warrior
   rotate: false
   xy: 4, 4
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+UnitIcons/Golem
+  rotate: false
+  xy: 1564, 1564
   size: 340, 340
   orig: 340, 340
   offset: 0, 0
