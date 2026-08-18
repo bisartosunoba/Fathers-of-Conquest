@@ -320,7 +320,22 @@
 			}
 
 			
-		]}
+		]
+	},
+	{
+		"columnNumber": 8,
+		"era": "Colossal era",
+		"techCost": 940,
+		"buildingCost": 240,
+		"wonderCost":600,
+		"techs":[
+			{
+				"name": "Tremendous Miracle",
+				"row": 5,
+				"prerequisites": ["Charm", "Mature Wall", "Quantity Production","Birth of Colossals"]
+			}
+		]
+	}
 	
 				
 
