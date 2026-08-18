@@ -301,7 +301,7 @@
 			{
 				"name": "Birth of Colossals",
 				"row": 10,
-				"prerequisites":["Machinery","Physics","Steel"]
+				"prerequisites":["Psychic Science","Machinery","Physics","Steel"]
 			}
 
 			
