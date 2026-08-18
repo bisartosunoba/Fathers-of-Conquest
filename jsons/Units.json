@@ -7,6 +7,7 @@
     "movement": 2,
     "strength": 120,
     "cost": 1000,
+	"requiredTech": "Tremendous Miracle"
     "uniques": ["[3] free [Horse of Joy] units appear","Never appears as a Barbarian unit"],
     "uniqueTo": "Lovers of the Wall",
     "attackSound": "tankshot",
@@ -20,6 +21,7 @@
     "movement": 2,
     "strength": 105,
     "cost": 800,
+	"requiredTech": "Tremendous Miracle"
     "uniques": ["[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
     "attackSound": "tankshot",
@@ -31,6 +33,7 @@
     "movement": 2,
     "strength": 200,
     "cost": 1800,
+	"requiredTech": "Tremendous Miracle"
     "uniques": ["[+500]% Strength <vs cities>",
       "Nuclear weapon of Strength [5]",
       "Blast radius [5]","Self-destructs when attacking","Triggers the following global alert: [May God have mercy on you, for the bull won't.]"
@@ -75,6 +78,7 @@
     "movement": 2,
     "strength": 30,
     "cost": 120,
+	"requiredTech": "Quantity Production"
     "uniques": ["[35] XP gained from combat","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
     "attackSound": "metalhit",
