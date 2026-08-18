@@ -260,7 +260,7 @@
 			{
 				"name": "Psychic Science",
 				"row": 7,
-				"prerequisites": ["Guilds","Engineering"]
+				"prerequisites": ["Theology","Metal Casting"]
 			},
 			
 			{
