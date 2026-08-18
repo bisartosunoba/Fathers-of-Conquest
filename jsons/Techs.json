@@ -331,7 +331,7 @@
 		"techs":[
 			{
 				"name": "Tremendous Miracle",
-				"row": 5,
+				"row": 6,
 				"prerequisites": ["Charm", "Mature Wall", "Quantity Production","Birth of Colossals"]
 			}
 		]
