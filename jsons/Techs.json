@@ -301,6 +301,13 @@
 			},
 			
 			{
+				"name":"Mature Wall",
+				"row": 2,
+				"prerequisites":["Psychic Science","Chivalry"]
+				"uniques": ["[20]% City Strength from defensive buildings"]
+			},
+			
+			{
 			    "name":"Quantity Production",
 			    "row": 9,
 			    "prerequisites":["Machinery","Physics","Steel"]
