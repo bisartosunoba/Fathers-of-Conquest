@@ -48,42 +48,49 @@ ResourceIcons/Tremendous
   index: -1
 TechIcons/Charm
   rotate: false
-  xy: 1564, 1300
+  xy: 700, 88
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Mature Wall
   rotate: false
-  xy: 700, 88
+  xy: 1564, 1036
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Miraculous Soldiers
   rotate: false
-  xy: 1564, 1036
+  xy: 964, 88
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Psychic Science
   rotate: false
-  xy: 964, 88
+  xy: 1564, 772
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Quantity Production
   rotate: false
-  xy: 1564, 772
+  xy: 1228, 88
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Tremendous Miracle
   rotate: false
-  xy: 1228, 88
+  xy: 1564, 508
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Beast Soldier
+  rotate: false
+  xy: 1564, 1300
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
