@@ -241,7 +241,7 @@
 			{
 				"name": "Miraculous Soldiers",
 				"row": 2,
-				"prerequisites" ["Theology"]
+				"prerequisites": ["Theology"]
 			}
 			{
 				"name": "Education",
