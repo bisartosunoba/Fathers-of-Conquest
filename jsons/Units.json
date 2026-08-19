@@ -322,10 +322,20 @@
 	{ 
 		"name": "Golem",
 		"unitType": "Armored",
-		"movement": "2",
-		"strength": "24",
+		"movement": 2,
+		"strength": 24,
 		"cost": 160,
 		"requiredTech": "Psychic Science",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Beast"
+		"unitType": "Sword"
+		"movement": 2,
+		"strength": 15,
+		"cost": 90,
+		"requiredTech": "Miraculous Soldiers",
+		"uniques": ["All healing effects doubled","May heal outside of friendly territory"],
 		"attackSound": "nonmetalhit"
 	},
 	
