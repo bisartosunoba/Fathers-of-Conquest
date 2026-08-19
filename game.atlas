@@ -60,16 +60,23 @@ TechIcons/Mature Wall
   orig: 256, 256
   offset: 0, 0
   index: -1
-TechIcons/Quantity Production
+TechIcons/Psychic Science
   rotate: false
   xy: 1564, 1036
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-TechIcons/Tremendous Miracle
+TechIcons/Quantity Production
   rotate: false
   xy: 964, 88
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TechIcons/Tremendous Miracle
+  rotate: false
+  xy: 1564, 772
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
