@@ -32,11 +32,46 @@ NationIcons/Titan Kin
   orig: 512, 512
   offset: 0, 0
   index: -1
-ResourceIcons/Tremendous
+TechIcons/Birth of Colossals
   rotate: false
-  xy: 352, 4
+  xy: 4, 4
   size: 340, 340
   orig: 340, 340
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tremendous
+  rotate: false
+  xy: 4, 4
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+TechIcons/Charm
+  rotate: false
+  xy: 1564, 1300
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TechIcons/Mature Wall
+  rotate: false
+  xy: 700, 88
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TechIcons/Quantity Production
+  rotate: false
+  xy: 1564, 1036
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TechIcons/Tremendous Miracle
+  rotate: false
+  xy: 964, 88
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Colossal Titan
@@ -48,14 +83,14 @@ UnitIcons/Colossal Titan
   index: -1
 UnitIcons/Experimental Warrior
   rotate: false
-  xy: 4, 4
+  xy: 1564, 1564
   size: 340, 340
   orig: 340, 340
   offset: 0, 0
   index: -1
 UnitIcons/Golem
   rotate: false
-  xy: 1564, 1564
+  xy: 352, 4
   size: 340, 340
   orig: 340, 340
   offset: 0, 0
