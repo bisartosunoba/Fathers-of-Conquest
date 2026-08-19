@@ -88,7 +88,7 @@ TechIcons/Tremendous Miracle
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Beast Soldier
+UnitIcons/Beast
   rotate: false
   xy: 1564, 1300
   size: 256, 256
