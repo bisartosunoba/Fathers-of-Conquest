@@ -239,6 +239,11 @@
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
 			{
+				"name": "Miraculous Soldiers",
+				"row": 1,
+				"prerequisites" ["Theology"]
+			}
+			{
 				"name": "Education",
 				"row": 3,
 				"prerequisites": ["Theology","Civil Service"],
