@@ -1,12 +1,19 @@
 
 Tileset.png
-size: 64, 64
+size: 128, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Units/Pehlivan
+TileSets/FantasyHex/Units/Horse of Joy
   rotate: false
   xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pehlivan
+  rotate: false
+  xy: 76, 32
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
