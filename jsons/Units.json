@@ -51,7 +51,6 @@
     "cost": 200,
 	"requiredTech": "Steel",
 	"requiredResource": "Iron",
-	"replaces": "Longswordsman",
     "uniques": ["[20]% Strength bonus for [Land] units within [1] tiles","No defensive terrain penalty","Never appears as a Barbarian unit"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "metalhit",
