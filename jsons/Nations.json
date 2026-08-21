@@ -68,7 +68,68 @@
 "cities": ["Istanbul","Edirne","Konya","Diyarbakır",
 "Trabzon","Damascus","Cyprus"]
 }
+// citystates
 
+  	{
+		"name": "Primitive Insects",
+		"adjective": ["Bugs"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [127, 177, 236],
+		"cities": ["Primitive Insects"]
+	},
+	{
+		"name": "Mech Kin",
+		"adjective": ["Titans"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [113, 227, 114],
+		"cities": ["Mech Kin"]
+	},
+	{
+		"name": "Frogmens",
+		"adjective": ["Fishs"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "And so the flower of Florence falls to barbaric hands...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [18, 188, 221],
+		"cities": ["Frogmens"]
+	},
+	{
+		"name": "Feral Golems",
+		"adjective": ["Golems"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [121, 226, 0],
+		"cities": ["Feral Golems"]
+	},
+	{
+		"name": "Disbelievers",
+		"adjective": ["Disbelievers"],
+		"cityStateType": "Mercantile", // Changed from Cultured to Religious in BNW
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [186, 18, 202],
+		"cities": ["Disbelievers"]
+	}
 
 
 ]
