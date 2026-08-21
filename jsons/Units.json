@@ -40,7 +40,7 @@
       ,"Never appears as a Barbarian unit","Limited to [1] per Civilization"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "nuke",
-    "civilopediaText":[{"text":"A bull even bigger than the largest tank, whose sole purpose is to detonate the bomb in the right place and achieve martyrdom."}],
+    "civilopediaText":[{"text":"A bull even bigger than the largest palace, whose sole purpose is to detonate the bomb in the right place and achieve martyrdom."}],
   },
   
   {
@@ -54,7 +54,7 @@
     "uniques": ["[20]% Strength bonus for [Land] units within [1] tiles","No defensive terrain penalty","Never appears as a Barbarian unit"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "metalhit",
-    "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split tanks in two."}]
+    "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split armys in two."}]
   },
 	{
     "name": "Horse of Joy",
