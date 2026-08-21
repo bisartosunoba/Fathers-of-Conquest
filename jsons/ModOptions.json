@@ -1,6 +1,7 @@
 {
+    "name": "Fathers of Conquest"
     "isBaseRuleset": true,
     "uniques": [
-        "Disable religion",
+        "Disable religion"
     ]
 }
