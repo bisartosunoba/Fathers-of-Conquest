@@ -137,6 +137,18 @@
 			{"text": "This is your basic, club-swinging fighter."}
 		]
 	},
+	{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	}
 	
 	{
 		"name": "Brute",
@@ -279,11 +291,19 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Pikeman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Beast",
+		"obsoleteTech": "Miraculous Soldiers",
+		"attackSound": "metalhit"
+	}
 	
-	
-
-	
-
 	{
 		"name": "Crossbowman",
 		"unitType": "Archery",
@@ -331,7 +351,7 @@
 		"name": "Beast"
 		"unitType": "Sword"
 		"movement": 2,
-		"strength": 15,
+		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Miraculous Soldiers",
 		"uniques": ["All healing effects doubled","May heal outside of friendly territory"],
