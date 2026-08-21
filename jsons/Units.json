@@ -45,7 +45,7 @@
   
   {
     "name": "Pehlivan",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "movement": 2,
     "strength": 26,
     "cost": 200,
@@ -73,7 +73,7 @@
   },
 	{
     "name": "Experimental Warrior",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "movement": 2,
     "strength": 21,
     "cost": 90,
