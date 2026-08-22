@@ -67,7 +67,31 @@
 "innerColor": [84,5,0],
 "cities": ["Istanbul","Edirne","Konya","Diyarbakır",
 "Trabzon","Damascus","Cyprus"]
-}
+},
+{
+"name": "Atomist Order",
+"leaderName": "Commander Silas Core",
+"adjective": ["Atomist"],
+"startIntroPart1": "Seeing that God did not reach them, this people became self-reliant; their misfortunes and deprivation only fueled their anger, and they vowed to advance far enough to reach the outer layer.",
+"startIntroPart2": "God never reached out to us; we reached out to Him. We created our own miracles ourselves. We are not as lucky as the other lowly ones, but we are more intelligent than they are.",
+"attacked": "Let's see what you've got.",
+"declaringWar":"Rise up, my brothers; let us take back what is ours!",
+"defeated":"As always... even though our efforts didn't taste victory, it was an honorable fight.", 
+"denounced": "Who ever appreciated it anyway?",
+"neutralHello": "Hello.",
+"hateHello": "Waste.",
+"introduction":"Greetings, lucky one.Greetings, lucky one.",
+"declaringFriendship": "Come with us, and let's touch the outer layer together.",
+"tradeRequest": "This is the best option for both of us",
+"uniqueName": "The Chosen Ones Among the Deprived",
+"uniques": ["Free Great Person <when at war>"], 
+"outerColor": [179,197,255],
+"innerColor": [25,25,29],
+"cities": ["New Megaton","Core Central","Isotopia","Rad-Haven","Ground Zero","Fission Ridge","Reactor Prime","Half-Life Citadel","Silo Alpha","Glowstone"
+]
+},
+
+
 // citystates
 
   	{
