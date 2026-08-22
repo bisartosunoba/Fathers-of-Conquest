@@ -93,7 +93,7 @@
 		"cost": 800,
 		"requiredTech": "Tremendous Miracle",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit","Limited to [2] per Civilization"],
+			"Must set up to ranged attack","Never appears as a Barbarian unit","Limited to [2] per Civilization"],
 	    "uniqueTo": "Atomist Order"
 		"attackSound": "missile"
 	},
