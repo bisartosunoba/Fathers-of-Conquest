@@ -85,8 +85,8 @@
 "tradeRequest": "This is the best option for both of us",
 "uniqueName": "The Chosen Ones Among the Deprived",
 "uniques": ["Free Great Person <when at war>"], 
-"outerColor": [179,197,255],
-"innerColor": [25,25,29],
+"outerColor": [10,14,10],
+"innerColor": [30,130,45],
 "cities": ["New Megaton","Core Central","Isotopia","Rad-Haven","Ground Zero","Fission Ridge","Reactor Prime","Half-Life Citadel","Silo Alpha","Glowstone"
 ]
 },
