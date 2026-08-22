@@ -6,147 +6,154 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Atomist Order
   rotate: false
-  xy: 1564, 1300
+  xy: 1564, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/Golden Sultanate
   rotate: false
-  xy: 4, 872
+  xy: 4, 896
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 NationIcons/Lovers of the Wall
   rotate: false
-  xy: 4, 352
+  xy: 4, 376
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 NationIcons/Terra Bacterias
   rotate: false
-  xy: 524, 352
+  xy: 524, 376
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 NationIcons/Titan Kin
   rotate: false
-  xy: 1044, 872
+  xy: 1044, 896
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 TechIcons/Birth of Colossals
   rotate: false
-  xy: 4, 4
+  xy: 4, 28
   size: 340, 340
   orig: 340, 340
   offset: 0, 0
   index: -1
 ResourceIcons/Tremendous
   rotate: false
-  xy: 4, 4
+  xy: 4, 28
   size: 340, 340
   orig: 340, 340
   offset: 0, 0
   index: -1
 TechIcons/Charm
   rotate: false
-  xy: 1564, 1036
+  xy: 1564, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Mature Wall
   rotate: false
-  xy: 964, 88
+  xy: 1564, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Miraculous Soldiers
   rotate: false
-  xy: 1564, 772
+  xy: 1228, 112
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Psychic Science
   rotate: false
-  xy: 1228, 88
+  xy: 1564, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Quantity Production
   rotate: false
-  xy: 1564, 508
+  xy: 1564, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TechIcons/Tremendous Miracle
   rotate: false
-  xy: 1564, 244
+  xy: 1492, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Beast
   rotate: false
-  xy: 700, 88
+  xy: 700, 112
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Colossal Deprived
+  rotate: false
+  xy: 964, 112
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Colossal Titan
   rotate: false
-  xy: 4, 1392
+  xy: 4, 1416
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 UnitIcons/Experimental Warrior
   rotate: false
-  xy: 1564, 1564
+  xy: 1564, 1588
   size: 340, 340
   orig: 340, 340
   offset: 0, 0
   index: -1
 UnitIcons/Golem
   rotate: false
-  xy: 352, 4
+  xy: 352, 28
   size: 340, 340
   orig: 340, 340
   offset: 0, 0
   index: -1
 UnitIcons/Horse of Joy
   rotate: false
-  xy: 524, 1392
+  xy: 524, 1416
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 UnitIcons/Pehlivan
   rotate: false
-  xy: 524, 872
+  xy: 524, 896
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 UnitIcons/Rosed Bull
   rotate: false
-  xy: 1044, 1392
+  xy: 1044, 1416
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 UnitIcons/Walking Wall
   rotate: false
-  xy: 1044, 352
+  xy: 1044, 376
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
