@@ -87,7 +87,7 @@
 "uniques": ["Free Great Person <when at war>"], 
 "outerColor": [10,14,10],
 "innerColor": [30,130,45],
-"cities": ["New Megaton","Core Central","Isotopia","Rad-Haven","Ground Zero","Fission Ridge","Reactor Prime","Half-Life Citadel","Silo Alpha","Glowstone"
+"cities": ["Core Central","Isotopia","Rad-Haven","Ground Zero","Fission Ridge","Reactor Prime","Half-Life Citadel","Silo Alpha","Glowstone"
 ]
 },
 
@@ -153,6 +153,15 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [186, 18, 202],
 		"cities": ["Disbelievers"]
+	},
+
+	// Barbarians
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
+			"[Water] units gain the [Unable to pillage tiles] promotion"]
 	}
 
 
