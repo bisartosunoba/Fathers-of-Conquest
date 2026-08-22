@@ -78,11 +78,25 @@
     "strength": 21,
     "cost": 90,
 	"requiredTech": "Quantity Production"
-    "uniques": ["[35] XP gained from combat","Never appears as a Barbarian unit"],
+    "uniques": ["[35]% XP gained from combat","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
     "attackSound": "metalhit",
     "civilopediaText": [{"text":"An unmanned, learning combat bot, no need for further expense."}]
   },
+{
+		"name": "Colossal Deprived",
+		"unitType": "Colossal",
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 70,
+	    "range": 4
+		"cost": 800,
+		"requiredTech": "Tremendous Miracle",
+		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit","Limited to [2] per Civilization"],
+	    "uniqueTo": "Atomist Order"
+		"attackSound": "missile"
+	},
 	
 
 	// Standart Units
